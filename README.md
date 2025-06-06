@@ -60,14 +60,14 @@ AssimilationChessAI/
 ## 9. 贡献与致谢
 
 *   感谢朱老师以及他辛苦的工作。
-*  参考文献
-(1)黑白棋AI设计探究_黄海同
-(2)计算机博弈算法在黑白棋中的应用_彭之军
-(3)蒙特卡洛树搜索实验设计——以黑白棋为例_张宇辉
-(4)全局求解Minimax线性规划的分支定界算法（英文）_王慧满
-(5)面向蒙特卡洛树搜索算法的深度神经网络的设计与实现_明红兵
-(6)Accelerating Deep Neural Net work guided MCTS using Adaptive Parallelism
-(7)几种智能算法在黑白棋程序中的应用_柏爱俊0511@USTC
-(8)https://blog.csdn.net/caozixuan98724/article/details/10321375
-(9)https://blog.csdn.net/weixin_42165981/article/details/103263211
-(10)https://oi-wiki.org/search/alpha-beta/
+*  参考文献：
+* (1)黑白棋AI设计探究_黄海同
+* (2)计算机博弈算法在黑白棋中的应用_彭之军
+* (3)蒙特卡洛树搜索实验设计——以黑白棋为例_张宇辉
+* (4)全局求解Minimax线性规划的分支定界算法（英文）_王慧满
+* (5)面向蒙特卡洛树搜索算法的深度神经网络的设计与实现_明红兵
+* (6)Accelerating Deep Neural Net work guided MCTS using Adaptive Parallelism
+* (7)几种智能算法在黑白棋程序中的应用_柏爱俊0511@USTC
+* (8)https://blog.csdn.net/caozixuan98724/article/details/10321375
+* (9)https://blog.csdn.net/weixin_42165981/article/details/103263211
+* (10)https://oi-wiki.org/search/alpha-beta/
