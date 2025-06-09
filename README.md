@@ -34,7 +34,7 @@
 ## 4. 技术栈
 
 *   **编程语言:** C++
-*   **开发环境:** Visual Studio Code
+*   **开发环境:** Visual Studio 2022
 *   **数据结构:** 数组, 哈希表等等
 *   **核心算法:** Minimax, Alpha-Beta剪枝等
 
